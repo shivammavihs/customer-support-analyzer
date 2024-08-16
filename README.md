@@ -28,7 +28,7 @@ To install and run the app locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/your-username CustomerSupportProfiler.git](https://github.com/shivammavihs/customer-support-analyzer.git)
+git clone https://github.com/shivammavihs/customer-support-analyzer.git
 cd customer-support-analyzer
 ```
 
