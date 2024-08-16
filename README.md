@@ -2,14 +2,14 @@
 
 ## Introduction
 
-Customer Support Analyzer is an intuitive AI-driven application that analyzes hindi customer support call recording to generate detailed profile of the customer support agent. The app transcribes the call recording using Speech to Text service from IBM watsonx, assesses the sentiments of the both the agent and the customer, and rates various aspects of the agent's performance, such as customer satisfaction, product knowledge, empathy, listening skills, communication clarity, and overall call handling quality using an LLM  from watsonz.ai.
+Customer Support Analyzer is an intuitive AI-driven application that analyzes Hindi customer support call recordings to generate a detailed profile of the customer support agent. The app transcribes the call recording using Speech to Text service from IBM Watsonx, assesses the sentiments of both the agent and the customer, and rates various aspects of the agent's performance, such as customer satisfaction, product knowledge, empathy, listening skills, communication clarity, and overall call handling quality using an LLM  from watsonz.ai.
 
-As we all know, customer support calls are typically recorded for training purposes and are not used for much else. Reviewing these hours of recordings can be challenging. However, with Large Language Models (LLMs), we can now utilize this call recording data more effectively. By transcribing the calls and feeding them into LLMs, we can extract valuable insights thanks to the advanced language understanding capabilities of these AI models.
+As we all know, customer support calls are typically recorded for training purposes and are not used for much else. Reviewing these hours of recordings can be challenging. However, with Large Language Models (LLMs), we can now utilize this call-recording data more effectively. By transcribing the calls and feeding them into LLMs, we can extract valuable insights thanks to the advanced language understanding capabilities of these AI models.
 
 ## Features
 
 * **Call Transcription:** Automatically transcribes customer support call recordings for easy analysis.
-* **Sentiment Analysis**: Evaluates the sentiments of both the customer and the agent during the call, providing a detailed sentiment breakdown.
+* **Sentiment Analysis**: Evaluate the sentiments of both the customer and the agent during the call, providing a detailed sentiment breakdown.
 * **Agent Profiling**: Creates comprehensive profiles of customer service agents based on their performance across various aspects.
 * **Performance Ratings**: Rates agents on customer satisfaction, product knowledge, empathy, listening skills, communication clarity, and call handling quality.
 * **Insightful Reports**: Generates detailed reports to help improve the quality of customer support and enhance agent training.
